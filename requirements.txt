@@ -6,3 +6,9 @@ streamlit
 datasets
 torch
 transformers
+pinecone-client
+tiktoken
+PyPDF2
+scikit-learn
+sentence-transformers
+evaluate
