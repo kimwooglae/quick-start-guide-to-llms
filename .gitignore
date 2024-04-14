@@ -15,3 +15,8 @@ notebooks/wandb/
 *.jsonl
 notebooks/fine_tuned_ir_cross_encoder/
 notebooks/fine_tuned_ir_cross_encoder_01/
+images/.ipynb_checkpoints/
+notebooks/anime_encoder/
+notebooks/anime_encoder_bigger/
+notebooks/user_preds_bak.json
+notebooks/user_preds.json
