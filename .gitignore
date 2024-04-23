@@ -20,3 +20,5 @@ notebooks/anime_encoder/
 notebooks/anime_encoder_bigger/
 notebooks/user_preds_bak.json
 notebooks/user_preds.json
+notebooks/vqa_data/*
+notebooks/vqa_custom/*
