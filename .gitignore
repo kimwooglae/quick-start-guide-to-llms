@@ -22,3 +22,8 @@ notebooks/user_preds_bak.json
 notebooks/user_preds.json
 notebooks/vqa_data*
 notebooks/vqa_custom*
+notebooks/t5-align/
+notebooks/vqa_train_dataset/
+notebooks/vqa_val_dataset/
+notebooks/temp.jpg
+
