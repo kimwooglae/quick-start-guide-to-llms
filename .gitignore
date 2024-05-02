@@ -26,4 +26,8 @@ notebooks/t5-align/
 notebooks/vqa_train_dataset/
 notebooks/vqa_val_dataset/
 notebooks/temp.jpg
+data/matrix_jp_1.pdf
+data/matrix_jp_2.pdf
+data/matrix_ko.pdf
+notebooks/pdf_extract.ipynb
 
