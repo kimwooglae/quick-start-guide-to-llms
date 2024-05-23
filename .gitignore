@@ -30,4 +30,22 @@ data/matrix_jp_1.pdf
 data/matrix_jp_2.pdf
 data/matrix_ko.pdf
 notebooks/pdf_extract.ipynb
-
+notebooks/anime_encoder_new/
+notebooks/anime_encoder_bigger_new/
+notebooks/math_english_to_latex/
+notebooks/sawyer/
+notebooks/sawyer_rl/
+notebooks/sawyer_rm/
+notebooks/testing_hyper_params/
+data/cached_lm_GPT2TokenizerFast_128_latex-guide-cos423.txt
+data/cached_lm_GPT2TokenizerFast_128_latex-guide-cos423.txt.lock
+notebooks/Write a mythical backstory for my D&D character.png
+notebooks/cache/
+notebooks/distilled-genre-prediction/
+notebooks/english_to_latex/
+notebooks/genre-prediction-bert/
+notebooks/genre-prediction-distilbert/
+notebooks/genre-prediction-full/
+notebooks/genre-prediction/
+notebooks/genre_distribution.png
+notebooks/math_book/
